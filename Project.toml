@@ -1,0 +1,10 @@
+name = "Ch15_Julia"
+uuid = "8eae7bf8-d1da-427a-942b-c5a8fb29bb95"
+authors = ["Amirreza "]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Pandas = "eadc2687-ae89-51f9-a5d9-86b5a6373a9c"
+Spacy = "18cfc20d-8661-43e2-ba68-aa79e087bad6"
+StringEncodings = "69024149-9ee7-55f6-a4c4-859efe599b68"
