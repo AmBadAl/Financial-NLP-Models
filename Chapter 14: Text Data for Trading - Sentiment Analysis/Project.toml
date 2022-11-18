@@ -1,0 +1,20 @@
+name = "Ch14_Julia"
+uuid = "9f889ed3-726a-4c41-93b1-506c5441d62d"
+authors = ["Amirreza "]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+Dictionaries = "85a47980-9c8c-11e8-2b9f-f7ca1fa99fb4"
+MLDataUtils = "cc2ba9b6-d476-5e6d-8eaf-a92d5412d41d"
+MLJ = "add582a8-e3ab-11e8-2d5e-e98b27df1bc7"
+MLJText = "5e27fcf9-6bac-46ba-8580-b5712f3d6387"
+Pandas = "eadc2687-ae89-51f9-a5d9-86b5a6373a9c"
+SciPy = "ebc72ef8-9537-4fb0-b64e-ac76025fed2d"
+Seaborn = "d2ef9438-c967-53ab-8060-373fdd9e13eb"
+Spacy = "18cfc20d-8661-43e2-ba68-aa79e087bad6"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+StringEncodings = "69024149-9ee7-55f6-a4c4-859efe599b68"
+TextAnalysis = "a2db99b7-8b79-58f8-94bf-bbc811eef33d"
