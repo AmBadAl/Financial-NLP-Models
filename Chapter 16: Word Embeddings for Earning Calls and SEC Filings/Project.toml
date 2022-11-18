@@ -1,0 +1,12 @@
+name = "Ch16_Julia"
+uuid = "f5f2d024-ccea-450e-848b-472c5801d681"
+authors = ["Amirreza "]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Embeddings = "c5bfea45-b7f1-5224-a596-15500f5db411"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+PlotlyJS = "f0f68f2c-4968-5e81-91da-67840de0976a"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+StringEncodings = "69024149-9ee7-55f6-a4c4-859efe599b68"
